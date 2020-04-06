@@ -6,4 +6,5 @@ class Artist
   end
   
   slipknot = Artist.new("Slipknot")
+  song
 end
