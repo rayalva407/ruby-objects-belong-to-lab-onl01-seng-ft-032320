@@ -5,6 +5,4 @@ class Artist
     @name = name
   end
   
-  slipknot = Artist.new("Slipknot")
-  sic = Song.new("sic")
 end
