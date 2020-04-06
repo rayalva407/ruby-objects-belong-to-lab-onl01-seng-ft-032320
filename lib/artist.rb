@@ -5,5 +5,5 @@ class Artist
     @name = name
   end
   
-  song = Song.new("song")
+  slipknot = Artist.new("Slipknot")
 end
