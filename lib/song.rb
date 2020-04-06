@@ -5,5 +5,6 @@ class Song
     @title = title
   end
   
+  song = Song.new
   
 end
